@@ -1,0 +1,6 @@
+clear all; clc;
+%Este programa realiza operaciones
+a = 3
+b = -2
+suma = a + b
+mult = a.*b
