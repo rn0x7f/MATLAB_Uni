@@ -12,3 +12,7 @@ clear all; clc;
 a = input('Ingresa los numeros de tu primer vector\nEjemplo: [1 2 3 4 5]\n');
 b = input('Ingresa los numeros de tu segundo vector\nEjemplo: [1 2 3 4 5]\n');
 sum = a + b
+
+v1 = [2 3 4];
+v2 = [8 5 -1];
+t = v1 - v2
